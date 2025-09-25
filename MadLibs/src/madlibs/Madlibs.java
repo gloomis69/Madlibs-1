@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Madlibs {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/*
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter a name");
 		String name = scan.nextLine();
@@ -33,6 +33,8 @@ public class Madlibs {
 
 		System.out.print("Everywhere that "+name+" went,");
 		System.out.println(" the " + animal + " was sure to " + verb);
+		 */
+
 
 	}
 
